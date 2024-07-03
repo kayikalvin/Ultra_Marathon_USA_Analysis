@@ -6,4 +6,4 @@ The dataset was obtained from the [The big dataset of ultra-marathon running](ht
 
 
 ### Model
-![Data Model](https://github.com/kayikalvin/Walmart-DataAnalysis/blob/master/WalmartModel.drawio.png)
+![Data Model](https://github.com/kayikalvin/Ultra_Marathon_USA_Analysis/blob/main/model.drawio.png)
